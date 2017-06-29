@@ -2,9 +2,9 @@
 
 ### TODO
 
-* Create HTML for `pushed_at` and `description` (formatted nicely)
-* Search by user OR by organization (use radio button to distinguish)
-* Display Profile Picture
+* Create HTML for `pushed_at` and `description` (formatted nicely)  - DONE!!!!
+* Search by user OR by organization (use radio button to distinguish) - DONE!!!!
+* Display Profile Picture - DONE!!!!
 
 ### Stretch Goals
 

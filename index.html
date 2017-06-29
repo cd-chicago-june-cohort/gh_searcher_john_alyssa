@@ -12,10 +12,13 @@
 <body>
 
   <form>
-    <input type="text" name="username" placeholder="Enter GitHub Username">
+    <input type="text" name="search_name" placeholder="Enter GitHub User or Organization Name">
+    <br></br>
+    <input type="radio" name="search_type" value="users">User</input>
+    <input type="radio" name="search_type" value="orgs">Organization</input>
+
     <button type="submit">Search</button>
   </form>
-
   <ul id="results-list">
 
   </ul>
